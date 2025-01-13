@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p> Step 1 - Setup Azure Virtual Machine
 <img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Step
-  <img width="227" alt="t1" src="https://github.com/user-attachments/assets/13d5e1a3-a8ef-4628-8e2b-3dbd7c017928" />
+<img width="227" alt="t1" src="https://github.com/user-attachments/assets/13d5e1a3-a8ef-4628-8e2b-3dbd7c017928" />
 
 </p>
 <p>
