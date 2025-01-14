@@ -321,7 +321,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ---
 
-# osTicket Installation Complete
+# osTicket - Installation Complete
 
 Use the following links to access the Helpdesk:
 
