@@ -316,6 +316,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - MySQL Database: `osTicket`
    - MySQL Username: `root`
    - MySQL Password: `root`
+   
 ![image](https://github.com/user-attachments/assets/fcf0f0b3-af70-4dc4-88f2-b6256f34edbc)
 
 
